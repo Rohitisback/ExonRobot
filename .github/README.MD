@@ -10,13 +10,13 @@
 </h2>
 
 
-##  ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛɢ🏃‍♀️](https://t.me/AbishnoiMF) 
+##  ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛɢ🏃‍♀️](https://t.me/PiroXtreme) 
 
-## [ғᴏʀ ᴜᴘᴅᴀᴛᴇ](https://t.me/Abishnoi_bots)  
+## [ғᴏʀ ᴜᴘᴅᴀᴛᴇ](https://t.me/XtremeHeat)  
 
 ## ⚡ (ɢɪᴠᴇ sᴛᴀʀ)
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴇxᴏɴ ✘ ʀᴏʙᴏᴛ](https://t.me/Exon_Robot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [Xtreme Robot](https://t.me/XtremeHelp_RoBot)**_
 ━━━━━━━━━━━━━━━━━━━━
 <h3 align="center"> 
     𝗚𝗥𝗢𝗨𝗣  𝗠𝗔𝗡𝗔𝗚𝗘𝗥    
@@ -163,10 +163,10 @@ OWNER_ID =  sᴛᴀʀᴛ @Exon_Robot & ᴛʏᴘᴇ /id
 </h3>
  : ➻
 
-➥ [𝐀𝖻𝗂𝗌𝗁𝗇𝗈𝗂] × <a href="https://github.com/Abishnoi69" alt="Abishnoi69"> <img src="https://img.shields.io/badge/KINGABISHNOI-90302f?logo=github" /></a>  
+➥ [𝐀𝖻𝗂𝗌𝗁𝗇𝗈𝗂] × <a href="https://github.com/RohitBack" alt="RohitBack"> <img src="https://img.shields.io/badge/KINGABISHNOI-90302f?logo=github" /></a>  
 
-➥ [𝐀ɴᴏɴʏᴍᴏᴜs] × <a href="http://github.com/AnonymousX1025/FallenRobot" alt="AnonymousX1025"> <img src="https://img.shields.io/badge/Anonymous-90302f?logo=github" /></a>  
+➥ [𝐀ɴᴏɴʏᴍᴏᴜs] × <a href="http://github.com/RohitBack/FallenRobot" alt="RohitBack"> <img src="https://img.shields.io/badge/Anonymous-90302f?logo=github" /></a>  
 
-➥ [𝐁ʟᴀᴄᴋ ʙᴜʟʟs] × <a href="https://github.com/Black-Bulls-Bots/zerotwobot" alt="Black-Bulls-Bots"> <img src="https://img.shields.io/badge/BlackBullsBots-90302f?logo=github" /></a>  
+➥ [𝐁ʟᴀᴄᴋ ʙᴜʟʟs] × <a href="https://github.com/RohitBack/zerotwobot" alt="RohitBack"> <img src="https://img.shields.io/badge/BlackBullsBots-90302f?logo=github" /></a>  
 
 ━━━━━━━━━━━━━━━━━━━━
